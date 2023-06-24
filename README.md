@@ -1,3 +1,6 @@
+## Unleashing the Power of Data Visualization
+<img width="785" alt="Screenshot 2023-06-24 at 7 03 39 AM" src="https://github.com/sidd462/Chart-and-Graph-Catalog-for-Data-Analysis/assets/34214713/576dce47-07f6-4f82-8fe1-49ddea34586f">
+
 ## Commonly Used Charts and Graphs
 
 1. Bar Chart: Displays data using rectangular bars of varying lengths, with the length of each bar representing the data value.
@@ -61,6 +64,3 @@
 9. Population Pyramid: Represents the distribution of age and gender within a population, with age groups displayed as horizontal bars.
 
 10. Radar Spider Chart: Displays multiple variables as axes radi
-
-## Unleashing the Power of Data Visualization
-![Unleashing the Power of Data Visualization]([Unleashing the Power of Data Visualization.png](https://github.com/sidd462/Chart-and-Graph-Catalog-for-Data-Analysis/blob/main/Unleashing%20the%20Power%20of%20Data%20Visualization.png)https://github.com/sidd462/Chart-and-Graph-Catalog-for-Data-Analysis/blob/main/Unleashing%20the%20Power%20of%20Data%20Visualization.png?raw=true "Title")
