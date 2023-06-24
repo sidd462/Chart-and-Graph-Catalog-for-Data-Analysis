@@ -63,4 +63,4 @@
 10. Radar Spider Chart: Displays multiple variables as axes radi
 
 ## Unleashing the Power of Data Visualization
-![Alt Text](relative/path/to/image.png)
+![Unleashing the Power of Data Visualization](relative/path/to/image.png)
